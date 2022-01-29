@@ -16,7 +16,9 @@ At Pewlett Hackard baby boomers are approaching retirment age. This analysis ide
 There are are 72,458 roles that need to be filled across 7 different positions. There are 1,549 potential mentors to the new people who would fill those roles. Each mentor would have over 45 people. It doesn't seem like there are enough mentors to be helpful to the people entering new roles.
 
 One way to determine this more definitively would be to create a query of mentors by title.
+
 ![mentors_by_title.png](https://github.com/Brandonkish1/Pewlett-Hackard-Analysis/blob/main/Images/mentors_by_title.png)
 
 A comparison of new positions and mentors would also be useful. This comparison shows there is one position where there are no mentors. From looking at the query above we can figure out that there aren't any managers represented in the mentor group. 
+
 ![mentors_and_retirees_by_title.png](https://github.com/Brandonkish1/Pewlett-Hackard-Analysis/blob/main/Images/mentors_and_retirees_by_title.png)
