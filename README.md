@@ -9,6 +9,6 @@ At Pewlett Hackard baby boomers are approaching retirment age. This analysis ide
 - The position that is most impacted is Senior Engineer with 25,916 potential retirees 
 - There 1549 employees that could potentially mentor junior staff memembers.
 
-!(retiring_titles.png)[https://github.com/Brandonkish1/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.png]
+![retiring_titles.png](https://github.com/Brandonkish1/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.png)
 
 ## Summary
