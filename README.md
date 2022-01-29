@@ -6,8 +6,7 @@ At Pewlett Hackard baby boomers are approaching retirment age. This analysis ide
 ## Results
 - There are 240,124 employess working for Pewlett Hackard
 - 72,458 employees are eligible for retirement. That is 30%
-- The position that is most impacted is Senior Engineer with 25,916 potential retirees
-  -  
+- The position that is most impacted is Senior Engineer with 25,916 potential retirees 
 - There 1549 employees that could potentially mentor junior staff memembers.
 
 ## Summary
