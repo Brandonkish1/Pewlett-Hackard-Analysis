@@ -12,3 +12,8 @@ At Pewlett Hackard baby boomers are approaching retirment age. This analysis ide
 ![retiring_titles.png](https://github.com/Brandonkish1/Pewlett-Hackard-Analysis/blob/main/Images/retiring_titles.png)
 
 ## Summary
+
+There are are 72,458 roles that need to be filled across 7 different positions. There are 1,549 potential mentors to the new people who would fill those roles. Each mentor would have over 45 people. It doesn't seem like there are enough mentors to be helpful to the people entering new roles.
+
+One way to determine this more definitively would be to create a table of mentors by title.
+![mentors_by_title.png](https://github.com/Brandonkish1/Pewlett-Hackard-Analysis/blob/main/Images/mentors_by_title.png)
